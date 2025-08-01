@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá! Sejam bem vindos ao meu GitHub!</h1>
 
-<!--
-**felipeluz09/felipeluz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Felipe Gabriel, Sou de Ponta Grossa, PR</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sou estudante em Linguagens de Programação.</h2>
+
+###
+
+<p align="left">✨ Criando codigos desde 01/01/2025<br>📚 Atualmente estou aprendendo Html, Css<br>🎯 Objetivo; Ser um Programador.<br>🎲 Curiosidade; Fazendo curso tecnico (Desenvolvimento De Sistemas)</p>
+
+###
+
+<h2 align="left">Eu crio códigos com Html, Css. (VS CODE)</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
